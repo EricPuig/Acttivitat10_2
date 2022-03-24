@@ -51,7 +51,9 @@ public class STRINGMARAVILLOSO{
         
         System.out.println("LA versió que tenim a github ha estat actualitzada i és mes actual que la que tinc en local");
         
+        //Metodo para imprimir parte superior
         imprimirSuperior(M);
+        //Metodo para imprimir parte inferior
         imprimirInferior(M);
         
     }    
